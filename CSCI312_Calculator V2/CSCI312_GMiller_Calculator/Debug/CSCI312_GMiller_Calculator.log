@@ -1,0 +1,28 @@
+﻿Build started 2/1/2016 12:27:26 AM.
+     1>Project "C:\Users\Geoff\Desktop\PROJECTS FOR INTERVIEW\CSCI312_Calculator V2\CSCI312_GMiller_Calculator\CSCI312_GMiller_Calculator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CSCI312_GMiller_Calculator.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CSCI312_GMiller_Calculator.cpp Calculator.cpp
+         Calculator.cpp
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(107): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(116): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(156): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(187): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(196): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(238): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(269): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(278): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(318): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(349): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\geoff\desktop\projects for interview\csci312_calculator v2\csci312_gmiller_calculator\calculator.cpp(358): warning C4018: '<' : signed/unsigned mismatch
+         CSCI312_GMiller_Calculator.cpp
+         Generating Code...
+       Link:
+         D:\Program Files (x86)\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Geoff\Desktop\PROJECTS FOR INTERVIEW\CSCI312_Calculator V2\Debug\CSCI312_GMiller_Calculator.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Geoff\Desktop\PROJECTS FOR INTERVIEW\CSCI312_Calculator V2\Debug\CSCI312_GMiller_Calculator.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Geoff\Desktop\PROJECTS FOR INTERVIEW\CSCI312_Calculator V2\Debug\CSCI312_GMiller_Calculator.lib" /MACHINE:X86 Debug\Calculator.obj
+         Debug\CSCI312_GMiller_Calculator.obj
+         Debug\stdafx.obj
+         CSCI312_GMiller_Calculator.vcxproj -> C:\Users\Geoff\Desktop\PROJECTS FOR INTERVIEW\CSCI312_Calculator V2\Debug\CSCI312_GMiller_Calculator.exe
+     1>Done Building Project "C:\Users\Geoff\Desktop\PROJECTS FOR INTERVIEW\CSCI312_Calculator V2\CSCI312_GMiller_Calculator\CSCI312_GMiller_Calculator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.01
